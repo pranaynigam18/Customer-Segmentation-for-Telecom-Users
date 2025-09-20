@@ -57,23 +57,26 @@ See `week3project.ipynb` for full code, analysis, and visualizations.
 
 ---
 
-## How to Push this README to GitHub
+## How to Run
 
-1. Open your terminal and navigate to the project folder:
+1. Clone the repository:
+
    ```
-   cd "C:\Users\Desktop\AIML\Customer Segmentation"
+   git clone https://github.com/pranaynigam18/Customer-Segmentation-for-Telecom-Users.git
+   cd Customer-Segmentation-for-Telecom-Users
    ```
-2. Stage the new README file:
+
+2. To Run:
+
    ```
-   git add README.md
+   pip install pandas numpy matplotlib seaborn scikit-learn
    ```
-3. Commit the change:
+
+3. Open the notebook:
+
    ```
-   git commit -m "Add README.md for week 3 customer segmentation project"
+   jupyter notebook week3project.ipynb
    ```
-4. Push to your GitHub repository:
-   ```
-   git push origin main
-   ```
-   This will upload your new README to GitHub.
-=======
+
+4. Run all cells to reproduce the analysis.
+
