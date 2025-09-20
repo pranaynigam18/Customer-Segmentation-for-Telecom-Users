@@ -61,7 +61,7 @@ See `week3project.ipynb` for full code, analysis, and visualizations.
 
 1. Open your terminal and navigate to the project folder:
    ```
-   cd "C:\Users\Aayush\Desktop\AIML\Customer Segmentation"
+   cd "C:\Users\Desktop\AIML\Customer Segmentation"
    ```
 2. Stage the new README file:
    ```
