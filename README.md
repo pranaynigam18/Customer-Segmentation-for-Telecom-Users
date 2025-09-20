@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Customer Segmentation for Telecom Users (Week 3)
 
 ## Overview
@@ -78,6 +77,3 @@ See `week3project.ipynb` for full code, analysis, and visualizations.
    ```
    This will upload your new README to GitHub.
 =======
-# Customer-Segmentation-for-Telecom-Users
-Customer Segmentation for Telecom Users (Week3 Project @GNCIPL)  Objectives: - Load and understand the dataset - Clean &amp; preprocess (handle data types, missing values, encode categoricals) - Exploratory visuals for numeric features - K-Means clustering with Elbow &amp; Silhouette to select K - PCA for 2D visualization - Segment profiling and insights
->>>>>>> 714735cc088e14149bd9d9386dd0b9d89296a7ea
